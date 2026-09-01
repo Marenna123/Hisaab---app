@@ -1,0 +1,6 @@
+{
+  "name": "Hisaab",
+  "description": "Voice-controlled ledger for shopkeepers to track borrowed, lent, and repaid money in Telugu and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
